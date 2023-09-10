@@ -59,3 +59,4 @@ zope.event==4.6
 zope.interface==6.0
 pyrebase4
 numpy
+python-dotenv
